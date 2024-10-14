@@ -1,8 +1,8 @@
-Naaptol Mobile and Tablets Automation
+**Naaptol Mobile and Tablets Automation**
 Overview
 This project automates the functionality of the 'Mobile and Tablets' section on the Naaptol website using Selenium WebDriver and Cucumber BDD framework. The automation covers various scenarios, including navigation, product search, adding products to the cart, and validating the final checkout process.
 
-Project Structure
+**Project Structure**
 Framework: Selenium WebDriver, Cucumber (BDD), Maven
 Programming Language: Java
 Test Runner: testNG
@@ -18,8 +18,8 @@ Screenshots – Capture screenshots on test failures and success.
 Prerequisites
 Before running the tests, make sure you have the following installed on your system:
 
-Java (JDK 8 or higher)
-Maven
+**Java (JDK 8 or higher)**
+**Maven**
 Selenium WebDriver (Included via Maven dependencies)
 Cucumber plugin (for feature file execution)
 Naaptol website credentials (optional, if automating login)
@@ -28,10 +28,10 @@ Naaptol website credentials (optional, if automating login)
 Here’s a sample README.md file for your Selenium BDD Cucumber project that automates the 'Mobile and Tablets' section of the Naaptol website:
 
 Naaptol Mobile and Tablets Automation
-Overview
+**Overview**
 This project automates the functionality of the 'Mobile and Tablets' section on the Naaptol website using Selenium WebDriver and Cucumber BDD framework. The automation covers various scenarios, including navigation, product search, adding products to the cart, and validating the final checkout process.
 
-Project Structure
+**Project Structure**
 Framework: Selenium WebDriver, Cucumber (BDD), Maven
 Programming Language: Java
 Test Runner: JUnit
@@ -47,13 +47,6 @@ Screenshots – Capture screenshots on test failures and success.
 Prerequisites
 Before running the tests, make sure you have the following installed on your system:
 
-Java (JDK 8 or higher)
-Maven
-Selenium WebDriver (Included via Maven dependencies)
-Cucumber plugin (for feature file execution)
-Naaptol website credentials (optional, if automating login)
-Project Setup
-Clone this repository:
 
 bash
 Copy code
