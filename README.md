@@ -50,7 +50,7 @@ Before running the tests, make sure you have the following installed on your sys
 
 bash
 Copy code
-git clone https://github.com/yourusername/naaptol-automation.git
+git clone https://github.com/shivu00777/Selenium_BDD_Cucumber_Project.git
 Navigate to the project directory:
 
 bash
